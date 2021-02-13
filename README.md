@@ -1,10 +1,8 @@
 ### Hi there, I'm Umer and a coder by heart 👋👨‍💻
 
-**🔭 Besides being a passionate gardener and Badmintonplayer.**
+**a passionate gardener and Badmintonplayer.**
 
-**🔑 I am an Open Source enthusiast and interested in ethical topics around the Web, Network and Data.**
-
-**📫 How to reach me: urmughal1@gmail.com **
+**I am interested in diiferent topics around the Web, Network and Data.**
 
 ### My activities this year
 ![stats](https://github-readme-stats.vercel.app/api?username=urmughal1&show_icons=true)
@@ -44,7 +42,12 @@
       </ul>
     </td>
   </tr>
-</table
+</table>
+
+### Reach me 
+
+**urmughal1@gmail.com **
+  
 
 ### Get in Contact
 
