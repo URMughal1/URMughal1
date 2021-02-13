@@ -25,6 +25,19 @@
         <li>Intermediate knowledge of CI/CD and all that comes with it</li>
       </ul>
     </td>
+     <ul>
+        <li>Web Technologies
+          <ul>
+            <li>Fan of Scripting languages like (PHP,Python) as well as creating SPAs with Vue</li>
+            <li>Animations in the Web either with CSS or JS</li>
+          </ul>
+        </li>
+        <li>Designing Microservices/APIs</li>
+        <li>Strong Collaborative Skills</li>
+        <li>Clean Code and TDD</li>
+        <li>Intermediate knowledge of CI/CD and all that comes with it</li>
+      </ul>
+    </td>
     <td style="border:0">
       <ul>
         <li>Testautomation
