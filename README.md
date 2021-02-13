@@ -9,16 +9,16 @@ URMughal1/URMughal1 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm Chris and a coder by heart 👋👨‍💻
+### Hi there, I'm Umer and a coder by heart 👋👨‍💻
 
-**🔭 Besides being a loving father, passionate gardener and woodworker, I am working on [skrape{it}](https://docs.skrape.it/docs/) in my free time.**
+**🔭 Besides being a passionate gardener and Badmintonplayer.**
 
-**🔑 I am an Open Source enthusiast and interested in ethical topics around the Web.**
+**🔑 I am an Open Source enthusiast and interested in ethical topics around the Web, Network and Data.**
 
-**📫 How to reach me: chris@draeger.tech**
+**📫 How to reach me: urmughal1@gmail.com **
 
 ### My activities this year
-![stats](https://github-readme-stats.vercel.app/api?username=christian-draeger&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=urmughal1&show_icons=true)
 
 ### My Key Skills / Focus Topics
   
@@ -28,30 +28,28 @@ You can click the Preview link to take a look at your changes.
       <ul>
         <li>Web Technologies
           <ul>
-            <li>Feeling at home on the JVM (preferring Kotlin) as well as creating SPAs with React or Vue</li>
+            <li>Fan of Scripting languages like (PHP,Python) as well as creating SPAs with Vue</li>
             <li>Animations in the Web either with CSS or JS</li>
-            <li>create a snappy, easy to use and modern UX</li>
           </ul>
         </li>
         <li>Designing Microservices/APIs</li>
         <li>Strong Collaborative Skills</li>
         <li>Clean Code and TDD</li>
-        <li>CI/CD and all that comes with it</li>
+        <li>Intermediate knowledge of CI/CD and all that comes with it</li>
       </ul>
     </td>
     <td style="border:0">
       <ul>
         <li>Testautomation
           <ul>
-            <li>deep knowledge regarding testing frameworks and libraries in all levels of testing on the JVM</li>
-            <li>Automated UI tests with Selenium/Appium/Cypress/Protractor</li>
+            <li>Automated UI tests with Cypress</li>
+            <li>Integation,Unit and User Acceptance Tesing in PHP Python</li>
           </ul>
         </li>
         <li>Agile Architecture and DevOps
           <ul>
-            <li>Buildautomation with Gradle/Maven as well as Parcel/Webpack</li>
-            <li>Server provisioning with Ansible/Puppet</li>
-            <li>Kubernetes with Helm and Containerization in general</li>
+            <li>Buildautomation with Git-Lab/Webpack</li>
+            <li>Containerization in general</li>
           </ul>
         </li>
       </ul>
@@ -64,6 +62,5 @@ You can click the Preview link to take a look at your changes.
 I am always keen to talk to other techies,
 please feel free to get in touch on any of the following.
 
-[![GitHub](https://img.shields.io/github/followers/christian-draeger.svg?label=GitHub&style=social)](https://github.com/christian-draeger)
-[![Twitter](https://img.shields.io/twitter/follow/JvmDefault?label=Twitter&style=social)](https://twitter.com/JvmDefault)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/christian-draeger)
+[![GitHub](https://img.shields.io/github/followers/christian-draeger.svg?label=GitHub&style=social)](https://github.com/urmughal1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/urmughal1)
