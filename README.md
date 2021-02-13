@@ -38,6 +38,8 @@
         <li>[Already Published a paper on 5G](https://ieeexplore.ieee.org/abstract/document/9110397)</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td style="border:0">
       <ul>
         <li>Testautomation
@@ -46,6 +48,10 @@
             <li>Integation,Unit and User Acceptance Tesing in PHP Python</li>
           </ul>
         </li>
+      </ul>
+    </td>
+     <td style="border:0">
+      <ul>
         <li>Agile Architecture and DevOps
           <ul>
             <li>Buildautomation with Git-Lab/Webpack</li>
