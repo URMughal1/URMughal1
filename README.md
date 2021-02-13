@@ -25,17 +25,17 @@
         <li>Intermediate knowledge of CI/CD and all that comes with it</li>
       </ul>
     </td>
-     <ul>
-        <li>Web Technologies
+    <td style="border:0">
+       <ul>
+        <li>AI and Data Science
           <ul>
-            <li>Fan of Scripting languages like (PHP,Python) as well as creating SPAs with Vue</li>
-            <li>Animations in the Web either with CSS or JS</li>
+            <li>Member of Smart City Berlin Project</li>
+            <li>Was the part of Smart Energy Project</li>
           </ul>
         </li>
-        <li>Designing Microservices/APIs</li>
-        <li>Strong Collaborative Skills</li>
-        <li>Clean Code and TDD</li>
-        <li>Intermediate knowledge of CI/CD and all that comes with it</li>
+        <li>Big Data Handling with Big Query</li>
+        <li>Using different ML Libraries like Tensorflow,Pandas, and Scikit-Learn etc</li>
+        <li>[Already Published a paper on 5G](https://ieeexplore.ieee.org/abstract/document/9110397)</li>
       </ul>
     </td>
     <td style="border:0">
