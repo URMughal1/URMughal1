@@ -51,5 +51,5 @@
 I am always keen to talk to other techies,
 please feel free to get in touch on any of the following.
 
-[![GitHub](https://img.shields.io/github/followers/christian-draeger.svg?label=GitHub&style=social)](https://github.com/urmughal1)
+[![GitHub](https://img.shields.io/github/followers/urmughal1.svg?label=GitHub&style=social)](https://github.com/urmughal1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/urmughal1)
