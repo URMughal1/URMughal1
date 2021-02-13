@@ -1,6 +1,6 @@
 ### Hi there, I'm Umer and a coder by heart 👋👨‍💻
 
-**a passionate gardener and Badmintonplayer.**
+**A passionate gardener and Badmintonplayer.**
 
 **I am interested in diiferent topics around the Web, Network and Data.**
 
@@ -36,7 +36,7 @@
         <li>Agile Architecture and DevOps
           <ul>
             <li>Buildautomation with Git-Lab/Webpack</li>
-            <li>Containerization in general</li>
+            <li>Containerization of the Application</li>
           </ul>
         </li>
       </ul>
