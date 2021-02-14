@@ -2,7 +2,7 @@
 
 **A passionate gardener and Badmintonplayer.**
 
-**I am interested in diiferent topics around the Web, Network and Data.**
+**I am interested in different topics around the Web, Network and Data.**
 
 ### My activities this year
 ![stats](https://github-readme-stats.vercel.app/api?username=urmughal1&show_icons=true)
