@@ -45,7 +45,7 @@
         <li>Testautomation
           <ul>
             <li>Automated UI tests with Cypress</li>
-            <li>Integation,Unit and User Acceptance Tesing in PHP Python</li>
+            <li>Integration, Unit and User Acceptance Tesing in PHP Python</li>
           </ul>
         </li>
       </ul>
